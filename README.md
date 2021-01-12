@@ -1,6 +1,8 @@
-Double Shot Audio - Coming Soon Page build status: [![Netlify Status](https://api.netlify.com/api/v1/badges/d94e143b-57b8-4fd8-b376-09c386ff2422/deploy-status)](https://app.netlify.com/sites/doubleshot-audio-comingsoon/deploys)
+## Double Shot Audio - Coming Soon Page
+Build status:  [![Netlify Status](https://api.netlify.com/api/v1/badges/d94e143b-57b8-4fd8-b376-09c386ff2422/deploy-status)](https://app.netlify.com/sites/doubleshot-audio-comingsoon/deploys)
 
-# Gatsby Simplefolio ⚡️ [![GitHub](https://img.shields.io/github/license/cobidev/gatsby-simplefolio?color=blue)](https://github.com/cobidev/gatsby-simplefolio/blob/master/LICENSE.md) ![GitHub stars](https://img.shields.io/github/stars/cobidev/gatsby-simplefolio) ![GitHub forks](https://img.shields.io/github/forks/cobidev/gatsby-simplefolio)
+
+# Powered by Gatsby Simplefolio ⚡️ [![GitHub](https://img.shields.io/github/license/cobidev/gatsby-simplefolio?color=blue)](https://github.com/cobidev/gatsby-simplefolio/blob/master/LICENSE.md) ![GitHub stars](https://img.shields.io/github/stars/cobidev/gatsby-simplefolio) ![GitHub forks](https://img.shields.io/github/forks/cobidev/gatsby-simplefolio)
 
 ## A clean, beautiful and responsive portfolio template for Developers
 
