@@ -43,6 +43,12 @@ const Header = () => {
             </span>
           </p>
         </Fade>
+        <br/>
+        <span className="back-to-top">
+          <Link to="footer navbar-static-bottom" smooth duration={1000}>
+            <i className="fa fa-angle-down fa-2x" aria-hidden="true" />
+          </Link>
+          </span>
       </Container>
     </section>
   );

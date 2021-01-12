@@ -63,8 +63,10 @@
   margin: 1rem 0 $default-font-size;
   transition: all 0.2s ease-in;
   cursor: pointer;
+  position:absolute;
+  bottom:0;
 
   &:hover {
-    transform: translateY(-2px);
+    transform: translateY(2px);
   }
 }
