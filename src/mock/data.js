@@ -2,9 +2,9 @@ import { nanoid } from 'nanoid';
 
 // HEAD DATA
 export const headData = {
-  title: '', // e.g: 'Name | Developer'
-  lang: '', // e.g: en, es, fr, jp
-  description: '', // e.g: Welcome to my website
+  title: 'Double Shot Audio', // e.g: 'Name | Developer'
+  lang: 'en', // e.g: en, es, fr, jp
+  description: 'Relaunch coming soon...', // e.g: Welcome to my website
 };
 
 // HERO DATA
@@ -59,7 +59,7 @@ export const projectsData = [
 export const contactData = {
   cta: '',
   btn: '',
-  email: '',
+  email: 'hi@doubleshot-audio.com',
 };
 
 // FOOTER DATA
@@ -68,22 +68,22 @@ export const footerData = {
     {
       id: nanoid(),
       name: 'twitter',
-      url: '',
+      url: 'https://twitter.com/dsa_hamburg',
     },
     {
       id: nanoid(),
-      name: 'codepen',
-      url: '',
+      name: 'instagram',
+      url: 'https://www.instagram.com/doubleshot.audio/',
     },
     {
       id: nanoid(),
-      name: 'linkedin',
-      url: '',
+      name: 'facebook',
+      url: 'https://www.facebook.com/doubleshotaudio',
     },
     {
       id: nanoid(),
-      name: 'github',
-      url: '',
+      name: 'youtube',
+      url: 'https://www.youtube.com/doubleshotaudio',
     },
   ],
 };
