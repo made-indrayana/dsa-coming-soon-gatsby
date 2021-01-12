@@ -28,7 +28,6 @@
   .hero-title {
     font-size: 5.6rem;
     font-weight: 700;
-    margin-top: 3rem;
     margin-bottom: 3.2rem;
     text-align: center;
 
@@ -41,15 +40,17 @@
     }
     @include respond(phone) {
       font-size: 3.5rem;
+      margin-top: 10rem;
       line-height: 1.5;
     }
     @include respond(phone-xs) {
       font-size: 2.8rem;
+      margin-top: 10rem;
     }
   }
 
   .hero-cta {
-    display: flex;
+    display: inline;
 
     @include respond(tab-port) {
       justify-content: center;

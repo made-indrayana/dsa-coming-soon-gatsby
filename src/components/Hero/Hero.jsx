@@ -30,6 +30,19 @@ const Header = () => {
             <span className="text-color-main">{name || 'relaunching!'}</span>
           </h1>
         </Fade>
+        <Fade left={isDesktop} bottom={isMobile} duration={1000} delay={1000} distance="30px">
+          <p className="hero-cta">
+            <span className="cta-btn cta-btn--hero">
+              <a
+              target="_blank"
+              rel="noopener noreferrer"
+              href="mailto:hi@doubleshot-audio.com"
+            >
+              Say hi@doubleshot-audio.com :D
+            </a>
+            </span>
+          </p>
+        </Fade>
       </Container>
     </section>
   );
