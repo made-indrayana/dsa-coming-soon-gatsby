@@ -38,7 +38,7 @@ const Header = () => {
               rel="noopener noreferrer"
               href="mailto:hi@doubleshot-audio.com"
             >
-              Say hi@doubleshot-audio.com
+              hi@doubleshot-audio.com
             </a>
             </span>
           </p>
